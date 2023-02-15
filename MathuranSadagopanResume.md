@@ -1,6 +1,6 @@
 ## Mathuran Sadagopan
 Mississauga, ON, L5C2V3, &nbsp;&nbsp;&nbsp;mathuransada@gmail.com&nbsp;&nbsp;&nbsp;647-447-3024  
-[in/mathuransada](https://www.linkedin.com/in/mathuransada/)&nbsp;&nbsp;&nbsp;[github/Mathuran](https://github.com/Mathuran)&nbsp;&nbsp;&nbsp;[io/mathuran_sadgopan](https://mathuran.github.io/mathuran_sadagopan/)
+[linkedin/mathuransada](https://www.linkedin.com/in/mathuransada/)&nbsp;&nbsp;&nbsp;[github/mathuran](https://github.com/Mathuran)&nbsp;&nbsp;&nbsp;[portfolio/mathuran](https://mathuran.github.io/mathuran_sadagopan/)
 
 ## Software Engineer
  High impact induvidual contributer skilled at building scalable systems and solutions. Experienced in Android, Web Development and Backend Development. Excited to develop end to end solutions for customers problems.
