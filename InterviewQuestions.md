@@ -1,5 +1,7 @@
-### Should I I still say i work for Amazon?
-Yes until your actually fired.
+## Scripted questions
+
+### Should I still say I work for Amazon?
+Yes until you're actually fired.
 
 ### What is your expected Salary?
 I see myself as pretty early in my career so I'm open to what you can offer. I believe I have pretty valuable experience that I hope can benefit you too. I am more focused on long term growth right now and potentialy being part of something big in the future.
@@ -34,6 +36,8 @@ Tell me about a time when I solved a hard challenge.
 
 ### What is the avg tenure of the team?
 
+### What is the most important contribution you would expect from someone in the first six months?
+
 ### What are some of the performance standards used?
 
 ### What is the culture like? (id not answered already)
@@ -44,25 +48,7 @@ Tell me about a time when I solved a hard challenge.
 
 ### What your favourite part of this company and least favourite part?
 
-
-a) Coding Session (50 minutes):
-You will be asked to share your screen for a coding session. 
-The team will share some data with you and will have you develop an app using Kotlin. 
-Please, have Android studio installed to build this app. 
-Please, pay extra attention to testing and other best practices. 
-You will have no limitations to use libraries you see fit. There will be a short break for water/breather. 
-b) This will be followed by a 50-minute open-ended Technical Q&A session with our team
-
-
-You will expect questions revolving around topics including but not limited to: Memory Management, Performance, Android Concurrency and Testing. 
-You will then have a chance to ask the team any questions.
-
-
-
-
-
-
-
+## Company-specific questions
 ### Why are you a great fit for our team at Kepler?
 
 	I think I would be a great fit at Kepler because of my educational background in Computer Engineering and work experience in web development. Over the past years I’ve become very interested in the field of IOT and have even started working on my own IOT product that would automatically water my garden. Furthermore, it would stream the data to a web app where users can monitor their garden and control the watering system. From looking at my GitHub page I’ve worked on a variety of projects related to robotics, AR and hardware development. This show my desire to innovate as I don’t hold my idea back ideas. In conclusion, I believe I’d be a great fit for Kepler because of my interest in IOT and ability to innovate. 
@@ -93,3 +79,6 @@ Looking to join a high growth start up that will challenge me.  Having watched m
 Observe
 Looking to join a high growth start up that will challenge me.  My twin recently worked on a project which automated creating cloud watch dashboards that use canaries for monitoring site reliability. The reaction from developers in how much they needed this surprised me which shows current SRE tools are lacking and that Observe is making a difference to make it cheaper and better. I think I would enjoy being a part of this project and look forward to learning more about this opportunity, please feel free to reach out to me for any questions at mathuransada@gmail.com.
 
+### Why do you want to work at square
+
+I am applying for the Android Engineer position at Square Conversation because of the company's innovative approach to revolutionizing the way businesses communicate with their customers. With experience at Amazon and Microsoft, I am confident that my expertise in Android app development and ability to collaborate effectively with cross-functional teams will contribute to Square Conversation's success. Additionally, Square's focus on innovation and growth presents a fantastic opportunity for me to further develop my skills and make meaningful contributions to the company. Thank you for considering my application. I am excited about the possibility of joining the Square Conversation team.
