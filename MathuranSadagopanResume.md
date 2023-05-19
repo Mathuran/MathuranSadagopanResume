@@ -9,26 +9,29 @@ Mississauga, ON, L5C2V3, &nbsp;&nbsp;&nbsp;mathuransada@gmail.com&nbsp;&nbsp;&nb
 | TypeScript, Node.js   | React.js, Redux, Vue.js        | AWS             |
 | Python                | pandas, scikit-learn           | TensorFlow      | -->
 
-**Programming Languages:** Kotlin, Java, TypeScript, JavaScript, Node.js, Deno.js, Python    
-**Frameworks / Libraries:** Dagger, Guice, Spring, AspectJ, React.js, Redux, Svelte, Oak, pandas, scikit-learn    
+**Programming Languages:** Kotlin, Java, TypeScript, JavaScript, Node.js, Deno.js    
+**Frameworks / Libraries:** Dagger, Guice, Spring, AspectJ, React.js, Redux, Svelte, Oak
 **Testing Frameworks / Libraries:** JUnit/TestNG, Mokito, Cucumber, Swagger    
-**Technologies:** Tomcat, Android, REST, WebSocket AWS, Docker, TensorFlow, Git    
+**Technologies:** Android, REST, WebSocket AWS, DynamoDB, SQL, noSQL Docker, TensorFlow, Git    
 
 ## Education
 <h4> BEng of Computer Engineering (CO-OP) | McMaster University | Sept 2017 - April 2021 </h4>
+
+## Certification 
+<h4> AWS Solutions Architect Certification </h4>
 
 ## Experience 
 
 <h4 style="text-align:left;"> Software Development Engineer | Amazon | June 2021 – March 2023 </h4>
 
-Delivered fraud prevention and service resiliency solutions, in Amazon consumer payments.
+Delivered fraud prevention and service resiliency solutions, in Amazon consumer payments using Serverless technologies.
 
 - Saved $80,000/year by auditing the cost of services and removing unused log search tool
-- Identified and fixed 2 bugs in away team code that unblocked the launch of real-time CVV verification in 7 marketplaces
-<!-- - Analyzed automated stress test results to identify 1 service that could not gracefully fail at high TPS loads and provided possible solutions. -->
-- Pinpointed and enhanced the brownout behavior of 1 service after adding an automated stress test
+- Resolved 2 issues blocking worldwide Real-time CVV verification for 1 year in 3 months.
+<!-- - Identified and fixed 2 bugs in away team code that unblocked the launch of Real-time CVV verification in 7 marketplaces -->
+<!-- - Pinpointed and enhanced the brownout behavior of 1 service after adding an automated stress test -->
 -  Programmed a solution to control clients, throttling limits in real time across 5 environments using AWS App Config and boosted service availability by 0.1% by preventing brownouts due to bad clients.
-- Increased net customer purchases by ~$10M due to reducing card testing and improving purchase confidence. [Kotlin, Dagger, Tomcat, Fargate]  
+- Increased net customer purchases by ~$10M due to reducing card testing and improving purchase confidence. [Kotlin, Dagger,AWS Fargate]  
 - Discovered 3 bugs in code as a result of adding anomaly detection to key service metrics
 - Simplified 5 AWS Cloudwatch dependency dashboards by implementing a generic library in typescript
 - Recommended fixes to improve app performance by 5% using automated performance profiling via AWS CodeGuru
@@ -46,7 +49,7 @@ Created features for various Microsoft products such as Windows Power Toys and M
 
 <h4 style="text-align:left;"> Full Stack Developer | Ellis Don | May 2019 – August 2019 </h4>
 
-Streamlined productivity for 100’s in the construction industry by building online tools for streamlining workflows  
+Streamlined workflows for 100’s in the construction industry by building online tools and services.  
 
 - Developed responsive and stateful components such as form fields and dashboards. 
 - Formed the front end using React.js and Redux. Backend services were Go or Java Spring Boot
