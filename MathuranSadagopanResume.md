@@ -10,19 +10,18 @@ Mississauga, ON, L5C2V3, &nbsp;&nbsp;&nbsp;mathuransada@gmail.com&nbsp;&nbsp;&nb
 | Python                | pandas, scikit-learn           | TensorFlow      | -->
 
 **Programming Languages:** Kotlin, Java, TypeScript, JavaScript, Node.js, Deno.js    
-**Frameworks / Libraries:** Dagger, Guice, Spring, AspectJ, React.js, Redux, Svelte, Oak
-**Testing Frameworks / Libraries:** JUnit/TestNG, Mokito, Cucumber, Swagger    
-**Technologies:** Android, REST, WebSocket AWS, DynamoDB, SQL, noSQL Docker, TensorFlow, Git    
+**Frameworks / Libraries:** Dagger, Guice, Spring, AspectJ, React.js, Redux, Svelte, Oak    
+<!-- **Testing Frameworks / Libraries:** JUnit/TestNG, Mokito, Cucumber, Swagger     -->
+**Technologies:** Android, REST, WebSocket AWS, DynamoDB, SQL, noSQL, Git    
 
+## Certifications 
+#### [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/2fd5dff4-554f-41b1-af78-9b6b39b6f104/public_url)
 ## Education
-<h4> BEng of Computer Engineering (CO-OP) | McMaster University | Sept 2017 - April 2021 </h4>
+#### BEng of Computer Engineering (CO-OP) | McMaster University | Sept 2017 - April 2021
 
-## Certification 
-<h4> AWS Solutions Architect Certification </h4>
 
 ## Experience 
-
-<h4 style="text-align:left;"> Software Development Engineer | Amazon | June 2021 – March 2023 </h4>
+### Software Development Engineer | Amazon | June 2021 – March 2023
 
 Delivered fraud prevention and service resiliency solutions, in Amazon consumer payments using Serverless technologies.
 
@@ -32,13 +31,13 @@ Delivered fraud prevention and service resiliency solutions, in Amazon consumer 
 <!-- - Pinpointed and enhanced the brownout behavior of 1 service after adding an automated stress test -->
 -  Programmed a solution to control clients, throttling limits in real time across 5 environments using AWS App Config and boosted service availability by 0.1% by preventing brownouts due to bad clients.
 - Increased net customer purchases by ~$10M due to reducing card testing and improving purchase confidence. [Kotlin, Dagger,AWS Fargate]  
-- Discovered 3 bugs in code as a result of adding anomaly detection to key service metrics
+<!-- - Discovered 3 bugs in code as a result of adding anomaly detection to key service metrics -->
 - Simplified 5 AWS Cloudwatch dependency dashboards by implementing a generic library in typescript
 - Recommended fixes to improve app performance by 5% using automated performance profiling via AWS CodeGuru
-- Achieved 0 ticket queues while on-call for business-critical services at Amazon
+<!-- - Achieved 0 ticket queues while on-call for business-critical services at Amazon -->
 - Established bi-weekly wiki writing sessions which brought documentation coverage from 50% to 100% in 4 months
 
-<h4 style="text-align:left;"> Software Engineer Intern | Microsoft | May 2020 - August 2020 </h4>
+### Software Engineer Intern | Microsoft | May 2020 - August 2020
 
 Created features for various Microsoft products such as Windows Power Toys and Microsoft Teams for Android.  
 
@@ -46,8 +45,7 @@ Created features for various Microsoft products such as Windows Power Toys and M
 - Produced features that complied with 100% of Microsoft and Android accessibility guidelines 
 - Successfully demonstrated the feasibility of a Windows color-picking tool via a C# UWP POC app
 
-
-<h4 style="text-align:left;"> Full Stack Developer | Ellis Don | May 2019 – August 2019 </h4>
+### Full Stack Developer | Ellis Don | May 2019 – August 2019
 
 Streamlined workflows for 100’s in the construction industry by building online tools and services.  
 
