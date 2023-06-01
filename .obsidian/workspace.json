@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a04779b62e2078e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Interview QA Eng.pdf"
-              }
-            }
-          },
-          {
             "id": "bd1a6495ce644db1",
             "type": "leaf",
             "state": {
@@ -30,12 +20,24 @@
             }
           },
           {
+            "id": "c67e875d15ea6675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Company Specific Questions/Dump.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "19c9e87cbb1a7193",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Behavioural-guide/Real-time CVV verification.md",
+                "file": "Company Specific Questions/Dump.md",
                 "mode": "preview",
                 "source": false
               }
@@ -49,25 +51,6 @@
               "state": {
                 "file": "Behavioural-guide/Tell me about yourself.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "11b1d215cbc5acba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7b8b6368f412399c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MathuranSadagopanResume.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -122,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1aeec196008faad4",
@@ -202,31 +184,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e2fe03e97698d47",
+  "active": "bd1a6495ce644db1",
   "lastOpenFiles": [
-    "MathuranSadagopanResume_tmp.html",
-    "MathuranSadagopanResume.md",
-    "Interview Prep Guide.md",
-    "Behavioural-guide/Real-time CVV verification.md",
-    "Behavioural-guide/Project-summary.md",
-    "Behavioural-guide/Tell me about yourself.md",
-    "Interview QA Eng.pdf",
-    "MathuranSadagopanResume.pdf",
     "Interview_with_Impact.pdf",
-    "What kind of role are you looking for.md",
+    "Interview Prep Guide.md",
+    "Interview QA Eng.pdf.md",
+    "Guides/ResumeGuide.md",
+    "Guides/Resume_Guide_Create_Accomplishment_Stories.pdf",
+    "Company Specific Questions/Dump.md",
     "InterviewQuestions.md",
+    "MathuranSadagopanResume.md",
+    "Behavioural-guide/Real-time CVV verification.md",
+    "Company Specific Questions",
+    "Technical-guide/TechnicalInterviewQuestions.md",
+    "Behavioural-guide/What is your super power.md",
+    "Behavioural-guide/What kind of role are you looking for.md",
+    "MathuranSadagopanResume.pdf",
+    "MathuranSadagopanResume_tmp.html",
+    "MathuranSadagopanResume.jpeg",
+    "Behavioural-guide/Tell me about yourself.md",
+    "Behavioural-guide/Project-summary.md",
+    "Interview QA Eng.pdf",
     "Guides/Network_for_Opportunity_UK_EN_JobAid.pdf",
     "Guides/LinkedIn Profile Best Practices.pdf",
     "Guides/LHH Orientation - 01.23.pdf",
-    "Resume_Guide_Create_Accomplishment_Stories.pdf",
     "Behavioural-guide/Teams Meeting Timer.md",
     "Behavioural-guide/Construction Management System.md",
     "Behavioural-guide/ProjectSummary.css",
     "Untitled.canvas",
-    "Guides/LC_Global_Webinar_LinkedIn_Session2_JobAid_UK_EN.pdf",
-    "Guides",
-    "2023-05-08.md",
-    "TechnicalInterviewQuestions.md",
-    "ResumeGuide.md"
+    "2023-05-08.md"
   ]
 }

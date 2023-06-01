@@ -1,54 +1,7 @@
-## Scripted questions
+### Why do you want to work at square
 
-### Should I still say I work for Amazon?
-Yes until you're actually fired.
+I am applying for the Android Engineer position at Square Conversation because of the company's innovative approach to revolutionizing the way businesses communicate with their customers. With experience at Amazon and Microsoft, I am confident that my expertise in Android app development and ability to collaborate effectively with cross-functional teams will contribute to Square Conversation's success. Additionally, Square's focus on innovation and growth presents a fantastic opportunity for me to further develop my skills and make meaningful contributions to the company. Thank you for considering my application. I am excited about the possibility of joining the Square Conversation team.
 
-### What is your expected Salary?
-I see myself as pretty early in my career so I'm open to what you can offer. I believe I have pretty valuable experience that I hope can benefit you too. I am more focused on long term growth right now and potentialy being part of something big in the future.
-
-The lowest I would go is 90000 but I would only accept that kinda of offer if it was balanced out in some other manner.
-
-
-### Why did you decide to become a software engineer / what interests you the most
-I love the cycle of tackling hard problems. The process of building something, seeing it fail and trying out new ideas is one I find very addicting. I remember as a kid I always loved lego and as I got older I got interested in robotics, and then Computer Engineering. I my career right now is simply a continuation of that interest.
-
-### Tell me about yourself?
-explain your name >
-
-I've always enjoyed tinkering and building stuff. From young age I loved playing with lego and then that turned into an 
-
-### What are your strengths
-I love learning.
-I am good at bring the room together.
-
-Tell me about a time when I solved a hard challenge. 
-
-- Solved NAC not triggering verification in production due to code in APX not triggering with the new feature flag
-  - This bug opened up a solution for solving a bigger problem called cvv double verify issue.
-  - found the issue by diving into metrics and using that to find the code then learned how it worked to find the bug.
-- Client throttling solution
-- NAC. In order to stop fraud on new customers accounts I created a simple check to determine if they were a new customer / new inactive customer.
-  - This solution checked if the customer had 0 available payment methods and challenged them.
-  - Required no new information and was able to challenge inactive customers like those who have removed all their cards and added it back again
-  - Improved customer trust and increased purchase by 10MM
-
-## Questions for the recruiter
-
-### What is the avg tenure of the team?
-
-### What is the most important contribution you would expect from someone in the first six months?
-
-### What are some of the performance standards used?
-
-### What is the culture like? (id not answered already)
-
-### What's the remote work policy?
-
-### Why is this role open?
-
-### What your favourite part of this company and least favourite part?
-
-## Company-specific questions
 ### Why are you a great fit for our team at Kepler?
 
 	I think I would be a great fit at Kepler because of my educational background in Computer Engineering and work experience in web development. Over the past years I’ve become very interested in the field of IOT and have even started working on my own IOT product that would automatically water my garden. Furthermore, it would stream the data to a web app where users can monitor their garden and control the watering system. From looking at my GitHub page I’ve worked on a variety of projects related to robotics, AR and hardware development. This show my desire to innovate as I don’t hold my idea back ideas. In conclusion, I believe I’d be a great fit for Kepler because of my interest in IOT and ability to innovate. 
@@ -79,6 +32,3 @@ Looking to join a high growth start up that will challenge me.  Having watched m
 Observe
 Looking to join a high growth start up that will challenge me.  My twin recently worked on a project which automated creating cloud watch dashboards that use canaries for monitoring site reliability. The reaction from developers in how much they needed this surprised me which shows current SRE tools are lacking and that Observe is making a difference to make it cheaper and better. I think I would enjoy being a part of this project and look forward to learning more about this opportunity, please feel free to reach out to me for any questions at mathuransada@gmail.com.
 
-### Why do you want to work at square
-
-I am applying for the Android Engineer position at Square Conversation because of the company's innovative approach to revolutionizing the way businesses communicate with their customers. With experience at Amazon and Microsoft, I am confident that my expertise in Android app development and ability to collaborate effectively with cross-functional teams will contribute to Square Conversation's success. Additionally, Square's focus on innovation and growth presents a fantastic opportunity for me to further develop my skills and make meaningful contributions to the company. Thank you for considering my application. I am excited about the possibility of joining the Square Conversation team.

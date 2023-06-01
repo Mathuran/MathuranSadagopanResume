@@ -15,10 +15,10 @@
 
 # 2. Prepare for the interview
 
-## 2.1 Prepare for the Behavioral Interview
+## 2.1 Prepare for the Behavioural Interview
 
 1. Create a cheat sheet for the classic "Tell me about a time when you did X" question. Use the [[Project-summary]] to list them out.
-2. Read [[Interview QA Eng.pdf]]
+2. Read [[Interview QA Eng.pdf]] and [[Interview_with_Impact.pdf]]
 3. Answer the following and have a scripted answer.
 	1. [[Tell me about yourself]] 
 	2. [[What kind of role are you looking for]] 

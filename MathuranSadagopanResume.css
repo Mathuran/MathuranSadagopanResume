@@ -14,7 +14,7 @@ h2 {
 h3 {
     margin-top: 12px;
     margin-bottom: 8px;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 h4 {
@@ -27,6 +27,7 @@ ul {
     margin-top: 4px;
     margin-bottom: 4px;
     font-size: 12px;
+    padding-left: 20px;
 }
 
 p {
