@@ -1,14 +1,14 @@
 # 1. Pre Interview 
 
-## 1.1 Create a resume 
+## 1.1 Create a resume
 
 1. Read [[Resume_Guide_Create_Accomplishment_Stories.pdf]] to get an understanding of how to write an awesome resume.
-	2. Write a resume and name it {{FirstName}}+{{LastName}}+Resume. Example [[MathuranSadagopanResume]].
-		1. Make sure your resume is written in passive tense.
-	3. Run your resume through an ATS scanner to find and fix formatting and basic content issues with your resume. Below is a list of recommended scanners.
+2. Write a resume and name it {{FirstName}}+{{LastName}}+Resume. Example [[MathuranSadagopanResume]].
+	1. Make sure your resume is written in passive tense.
 		1. Validate your using passive tense with this link - [Passive Voice Checker | Sapling](https://sapling.ai/utilities/passive_checker)
-		2. General ATS scanner - [Resume Worded - Login to your Account](https://resumeworded.com/account-login.php?next-page=results) (Aim to get a score above 80)
-	4. Have your resume reviewed by real people
+	2. Run your resume through an ATS scanner to find and fix formatting and basic content issues with your resume. Below is a list of recommended scanners.
+		3. General ATS scanner - [Resume Worded - Login to your Account](https://resumeworded.com/account-login.php?next-page=results) (Aim to get a score above 80)
+	3. Have your resume reviewed by real people
 
 ## 1.2 Create a LinkedIn Profile
 1. Follow the [[LinkedIn Profile Best Practices.pdf]] when creating your profile.
