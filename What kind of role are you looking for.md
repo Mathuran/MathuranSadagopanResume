@@ -5,7 +5,7 @@ A dream of mine is to one day have my own startup and have my own company but be
 
 #### Body
 1. Start with your skills
-2. you want the opportunity to continue developing and learning skills that will help make you a leader.
+2. you want the opportunity to continue developing and learning skills that will help make me be a famous programmer like John Carmack or Linus Torvalds or James Gosling.
 3. For now I still want to be a developer so being able to continue building new feature and work on new projects rather than maintaining old ones would be great.
 4. I've been reading a lot of software engineering books this year such as the Clean code book, Clean Architecture and studying for my AWS solution Architecture certification so being in role I can teach others those learning would be great.
 #### Outro

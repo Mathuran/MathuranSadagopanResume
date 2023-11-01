@@ -29,7 +29,8 @@
 
 1. What's the leadership style?
 2. What do you like most about working at X company
-3. How would you describe the culture of the team
+3. What was a highlight and lowlight in the past year working at your company
+4. How would you describe the culture of the team
 5. How did this opportunity become available
 
 Big Viking games
