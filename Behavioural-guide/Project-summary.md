@@ -4,19 +4,20 @@
 
 ## Past Projects
 
-| Company   | Project / Role / Activity           | Manager | 
-| --------- | ----------------------------------- | ------- |
-|           |                                     |         |
-| Amazon    | [[Real-time CVV verification]]      | [Lynette Lim LinkedIn](https://www.linkedin.com/in/lynette-xl-lim/)        |
-|           | Cloudwatch Dependency Dashboard     |         |
-|           | [[No Active Card Rule]]             |         |
-|           | [[Client Throttling Solution]]      |         |
-|           |                                     |         |
-| Microsoft | [[Teams Meeting Timer]]             | [Stephane Morichere-Matte LinkedIn](https://www.linkedin.com/in/stephanemoricherematte/)        |
-|           | Teams Reactions                     |         |
-|           | [[Windows wide Color Picker POC]]   |         |
-|           |                                     |         |
-| Ellis Don | [[Construction Management System ]] | [Rajeswari Marimuthu LinkedIn](https://www.linkedin.com/in/rajeswari-marimuthu-b634bb17/)        |
+| Company   | Project / Role / Activity           | Manager                                                                                   | Demonstrated LP's                    |
+| --------- | ----------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------ |
+|           |                                     |                                                                                           |                                      |
+| Amazon    | [[Real-time CVV verification]]      | [Lynette Lim LinkedIn](https://www.linkedin.com/in/lynette-xl-lim/)                       | Dive Deep, Ownership                 |
+|           | Cloudwatch Dependency Dashboard     |                                                                                           | Invent & Simplify                    |
+|           | [[No Active Card Rule]]             |                                                                                           | Customer Obsession, Deep Dive        |
+|           | [[Client Throttling Solution]]      |                                                                                           | Invent & Simplify, Highest Standards |
+|           | Lunch & Learn / Wiki sessions       |                                                                                           | Learn & Curious, Develop the Best    |
+|           |                                     |                                                                                           |                                      |
+| Microsoft | [[Teams Meeting Timer]]             | [Stephane Morichere-Matte LinkedIn](https://www.linkedin.com/in/stephanemoricherematte/)  |                                      |
+|           | Teams Reactions                     |                                                                                           |                                      |
+|           | [[Windows wide Color Picker POC]]   |                                                                                           |                                      |
+|           |                                     |                                                                                           |                                      |
+| Ellis Don | [[Construction Management System ]] | [Rajeswari Marimuthu LinkedIn](https://www.linkedin.com/in/rajeswari-marimuthu-b634bb17/) |                                      |
 
 
 ## BRAG template
