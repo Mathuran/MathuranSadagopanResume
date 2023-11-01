@@ -1,3 +1,21 @@
+### WellFund
+1. Your favorite programming language and why.
+	My favourite language that I've worked with till now would be Kotlin. Its a modern language built on the JVM and is interoperable with Java. There are a lot of reasons why I like Kotlin. The first one being how it is a multi - paradigm language that can be written using functional or OO programming principles. The OOP aspects it takes from Java and allows it to be used easily together. The functional aspect provides a ton more flexibility in the way you write code. My second most favourite part of Kotlin is the collections library. With the addition of lambdas the collection library in kotlin is so much better than java and really helps me write more succinct and readable code. My third fav feature is extension functions which allow you to statically extend classes that you use.
+
+3. A recent effort that contributed to your company's goals.
+	designed and implemented a feature that helped reduce card testing by bots. This reduced fraud and fake purchase being made and increased customer trust and led them to make larger purchase on Amazon.
+1. A technical challenge you've faced and how you tackled it.
+	I was once tasked with adding metrics to 4 apis and create a dashboard for them. Broke the problem down into smaller pieces and also thought about how we could make this process easier for 
+1. Your interest in working with startups.
+
+2. Walkthrough of your skills in modern programming languages.
+
+### (Klue) Tell us about the project or feature you lead that you're most proud of?
+At Amazon, my most proud feature was a simple feature to help prevent bots from testing credit cards on Amazon payments. My solution was a simple check that would authenticate all new or inactive users when they try to add a card to their wallet. The feature was designed implemented and released by me. After launching I was also able to quickly get results validating that my feature worked. This was great but what made me most proud of this project was that as a side effect of implementing this feature, I was able to find and fix a bug that was blocking our teams' s-tier goal which was to launch CVV verification worldwide.
+
+### (Klue) Do you have experience integrating with third party systems? Any examples you can share? And your level of involvement?
+Yes Amazon payments uses many different 3rd party systems for payment processing world wide, such as various banks, and card processors. Our teams core service was a Global Payment Authentication and was the abstraction layer for payment processing and authentication for all payments. While on the team I helped launch a couple payment processors in various countries.
+
 ### Why do you want to work at square
 
 I am applying for the Android Engineer position at Square Conversation because of the company's innovative approach to revolutionizing the way businesses communicate with their customers. With experience at Amazon and Microsoft, I am confident that my expertise in Android app development and ability to collaborate effectively with cross-functional teams will contribute to Square Conversation's success. Additionally, Square's focus on innovation and growth presents a fantastic opportunity for me to further develop my skills and make meaningful contributions to the company. Thank you for considering my application. I am excited about the possibility of joining the Square Conversation team.
