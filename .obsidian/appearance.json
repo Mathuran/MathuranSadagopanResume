@@ -3,5 +3,6 @@
   "theme": "system",
   "translucency": true,
   "baseFontSize": 16,
-  "cssTheme": ""
+  "cssTheme": "",
+  "enabledCssSnippets": []
 }

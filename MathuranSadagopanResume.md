@@ -1,4 +1,4 @@
-## Mathuran Sadagopan
+# Mathuran Sadagopan
 Mississauga, ON, L5C2V3, &nbsp;&nbsp;&nbsp;mathuransada@gmail.com&nbsp;&nbsp;&nbsp;647-447-3024  
 [linkedin/mathuransada](https://www.linkedin.com/in/mathuransada/)&nbsp;&nbsp;&nbsp;[github/mathuran](https://github.com/Mathuran)&nbsp;&nbsp;&nbsp;[portfolio/mathuran](https://mathuran.github.io/mathuran_sadagopan/)
 
@@ -21,7 +21,7 @@ Mississauga, ON, L5C2V3, &nbsp;&nbsp;&nbsp;mathuransada@gmail.com&nbsp;&nbsp;&nb
 
 
 ## Experience 
-### Software Development Engineer | Amazon | June 2021 – March 2023
+### Amazon | Software Development Engineer | <small> June 2021 – March 2023 </small>
 
 Delivered fraud prevention and service resiliency solutions, in Amazon consumer payments using Serverless technologies.
 
@@ -37,7 +37,7 @@ Delivered fraud prevention and service resiliency solutions, in Amazon consumer 
 <!-- - Achieved 0 ticket queues while on-call for business-critical services at Amazon -->
 - Established bi-weekly wiki writing sessions which brought documentation coverage from 50% to 100% in 4 months
 
-### Software Engineer Intern | Microsoft | May 2020 - August 2020
+### Microsoft | Software Engineer Intern | <small> May 2020 - August 2020 </small>
 
 Created features for various Microsoft products such as Windows Power Toys and Microsoft Teams for Android.  
 
@@ -45,7 +45,7 @@ Created features for various Microsoft products such as Windows Power Toys and M
 - Produced features that complied with 100% of Microsoft and Android accessibility guidelines 
 - Successfully demonstrated the feasibility of a Windows color-picking tool via a C# UWP POC app
 
-### Full Stack Developer | Ellis Don | May 2019 – August 2019
+### Ellis Don | Full Stack Developer | <small> May 2019 – August 2019 </small>
 
 Streamlined workflows for 100’s in the construction industry by building online tools and services.  
 
@@ -53,9 +53,7 @@ Streamlined workflows for 100’s in the construction industry by building onlin
 - Formed the front end using React.js and Redux. Backend services were Go or Java Spring Boot
 
 ## Projects
-<h4 style="text-align:left;display: inline;"> Siren Sense - <small>[React Native, Python, Tensor Flow] </small>| Jan 2021 - March 2021
-</h4>
+### Siren Sense | <small>[React Native, Python, Tensor Flow] </small>| <small> Jan 2021 - March 2021 </small>
 
 - Spearheaded the development of a siren detection app to make noise-canceling headphones and vehicles safer around emergency vehicles 
 - Achieved a target accuracy of 80% using a React Native mobile app and an audio detection model developed using Tensor Flow
-
