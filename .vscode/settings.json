@@ -1,0 +1,4 @@
+{
+  "markdown.styles": ["MathuranSadagopanResume.css"],
+  "markdown.extension.print.includeVscodeStylesheets": true
+}
