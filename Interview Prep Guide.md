@@ -33,6 +33,10 @@
 4. How would you describe the culture of the team
 5. How did this opportunity become available
 
+#### For Engineers
+1. How has AI changed your workflows?
+2. Do you think Computer hardware is ahead of Software or vice versa?
+
 Big Viking games
 What are some of the games you've released recently or are most popular?
 How did this opportunity become available?
