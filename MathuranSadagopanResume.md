@@ -8,10 +8,10 @@ mathuransada@gmail.com&nbsp;&nbsp;&nbsp;647-447-3024&nbsp;&nbsp;&nbsp;[linkedin/
 | TypeScript, Node.js   | React.js, Redux, Vue.js        | AWS             |
 | Python                | pandas, scikit-learn           | TensorFlow      | -->
 
-**Programming Languages:** Kotlin, Java, TypeScript, JavaScript, Node.js, Deno.js, Python, C++, C   
-**Frameworks / Libraries:** Dagger, Guice, Spring Boot, Log4j, Gradle, AspectJ, React.js, Redux, Svelte, Oak    
+**Programming Languages:** Kotlin, Java, TypeScript, JavaScript, Python, SQL, C#, C++, C   
+**Frameworks / Libraries:** Dagger, Guice, Spring Boot, React.js, Redux, Express, Next.js, Django    
 <!-- **Testing Frameworks / Libraries:** JUnit/TestNG, Mokito, Cucumber, Swagger     -->
-**Technologies:** Apache Tomcat, Android, REST, gRPC, WebSocket, AWS, DynamoDB, SQL, noSQL, Git    
+**Technologies:** Apache Tomcat, Android, Node.js, Deno.js, REST, gRPC, WebSocket, AWS, DynamoDB, Git    
 
 ## Education
 ### McMaster University | BEng of Computer Engineering (CO-OP) <small>| April 2021 </small>
