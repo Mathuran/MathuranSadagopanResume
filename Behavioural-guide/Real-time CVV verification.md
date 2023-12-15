@@ -23,7 +23,7 @@
 		</tr>
 		<tr>
 			<td>Hardest Bug     </td>
-			<td>Fixing the first bug in this project. This bug caused CVV to be shown to customer but always auto approve the card whether the CVV was right or wrong. This bug was very deeply rooted and required weeks of research because amazon used Spring for dependency injection understanding who's code was running was very difficult. The solution to the bug ended up having two iteration but </td>
+			<td>Fixing the first bug in this project. This bug caused CVV to be shown to customer but always auto approve the card whether the CVV was right or wrong. This bug was very deeply rooted and required weeks of research because amazon used Spring for dependency injection understanding who's code was running was very difficult. The solution to the bug ended up having two iteration and is now successfully fixed </td>
 		</tr>
 		<tr>
 			<td>Team Conflicts  </td>
