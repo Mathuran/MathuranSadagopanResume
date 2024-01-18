@@ -26,10 +26,10 @@ Delivered fraud prevention and service resiliency solutions, in Amazon consumer 
 - Resolved 2 issues blocking worldwide Real-time CVV verification for 1 year in 3 months.
 <!-- - Identified and fixed 2 bugs in away team code that unblocked the launch of Real-time CVV verification in 7 marketplaces -->
 <!-- - Pinpointed and enhanced the brownout behavior of 1 service after adding an automated stress test -->
--  Improved service availability across 5 AWS regions, and prevented brownouts by implementing a solution to control clients, throttling limits in real time across 5 environments using AWS App Config.
-- Increased net customer purchases by ~$10M due to reducing card testing and improving purchase confidence. [Kotlin, Dagger,AWS Fargate]  
+-  Improved service availability across 5 AWS regions, and prevented brownouts by implementing a solution to control clients, throttling limits in real time across 5 environments. [Java, Spring Boot, AWS App Config, Elasticache]
+- Increased net customer purchases by ~$10M due to reducing card testing and improving purchase confidence. [Kotlin, Dagger, AWS Fargate]  
 <!-- - Discovered 3 bugs in code as a result of adding anomaly detection to key service metrics -->
-- Simplified 5 AWS Cloudwatch dependency dashboards by implementing a generic library in typescript
+- Simplified 5 AWS CloudWatch dependency dashboards by implementing a generic library in typescript
 - Recommended fixes to improve app performance by 5% using automated performance profiling via AWS CodeGuru
 <!-- - Achieved 0 ticket queues while on-call for business-critical services at Amazon -->
 - Grew documentation coverage from 50% to 100% in 4 months by leading bi-weekly wiki writing sessions
@@ -38,7 +38,7 @@ Delivered fraud prevention and service resiliency solutions, in Amazon consumer 
 
 Created features for various Microsoft products such as Windows Power Toys and Microsoft Teams for Android.  
 
-- Fixed 3 user pain-points in Microsoft Teams for Android via 3 new features using Android Java
+- Fixed 3 user pain-points in Microsoft Teams for Android via 3 new features using Android Java / Kotlin
 - Produced features that complied with 100% of Microsoft and Android accessibility guidelines 
 - Successfully demonstrated the feasibility of a Windows color-picking tool via a C# UWP POC app
 
