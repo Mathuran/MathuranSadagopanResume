@@ -30,7 +30,7 @@
    3. > Action: [Bias for Action] [Earn Trust] Took time in a retro to talk with the team about if they felt the same. We came to an agreement, but the manager said it was still mandatory. My next goal was to understand what the takeaway of those meeting should and the meeting should change to benefit us. 
    4. > Result: We added a knowledge sharing session to the meeting and made the ops manager send everyone meeting notes and takeaways that we could all learn from.
 7. Describe a project where you had to work with a cross-functional team. How did you ensure effective communication and collaboration among team members with diverse skills?
-   1. > Situation
+   1. > Situation:
    2. > Task:
    3. > Action:
    4. > Result:
