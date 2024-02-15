@@ -32,6 +32,9 @@
 3. What was a highlight and lowlight in the past year working at your company
 4. How would you describe the culture of the team
 5. How did this opportunity become available
+6. What is the interview process like?
+7. What are the company tenants / leadership principals
+8. 
 
 #### For Engineers
 1. How has AI changed your workflows?
@@ -46,55 +49,4 @@ Before closing the meeting off I'd love to just get some high level feedback abo
 
 Thanks for giving me this opportunity to interview with you. Hope you have a great day.
 
-
-
-## Tic Toc
-How many interviews are there. - 4
-Will I get support for immigration? - yes
-Where is the job located? - Seattle or San Jose
-How many people are you hiring? - 10 ppl
-
-## Pinterest office hour questions
-- Do you guys do application based tech interviews where you test people on performing API calls or on a framework?
-- Do you do OOP interviews where you're asked to design a class or something larger?
-- Tips on when you get stuck?
-- How do you know you're doing bad on a systems design interview?
-  - Ask the interviewer how your doing
-- How do you know you're doing good?
-- Does the language you pick for algorithms matter in the hiring process
-
-- Questions will be Leetcode medium and may have multiple parts
-- Practice doing 2 mediums in 35 min
-
-# Competency
-- why do you want to work at pinterest
-- Projects you're proud of 
-- past challenges
-
-Conflict resolution and empathy
-Cross functional work
-Giving 
-
-- practubce STAR method
-
-- Learn pintrest mission and values and create points for them.
-
-# Design Architecture
-- you can choose your own whiteboard tool
-
-1. Begin high level
-   1. Clarify, clarify clarify
-2. Be clear in your diagram
-3. Communicate
-   1. Identify bottlenecks and failure modes
-4. Be honest
-
-Concurrency (threads, deadlock, starvation, consistency, coherence)
-Caching
-Database partitioning, replication, sharding, CAP Theorem
-Networking (IPC, TCP/IP)
-Real-world performance (relative performance RAM, disk, your network, SSD)	
-Availability and reliability (types of failures, failure units, how failures may manifest, mitigations, etc.)	
-Data storage choice and data aggregation
-QPS capacity / machine estimation (back of the envelope estimates), byte size estimation
 

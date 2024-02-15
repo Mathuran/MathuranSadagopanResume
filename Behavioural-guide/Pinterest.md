@@ -1,3 +1,48 @@
+# Pinterest office hour questions
+- Do you guys do application based tech interviews where you test people on performing API calls or on a framework?
+- Do you do OOP interviews where you're asked to design a class or something larger?
+- Tips on when you get stuck?
+- How do you know you're doing bad on a systems design interview?
+  - Ask the interviewer how your doing
+- How do you know you're doing good?
+- Does the language you pick for algorithms matter in the hiring process
+
+- Questions will be Leetcode medium and may have multiple parts
+- Practice doing 2 mediums in 35 min
+
+## Competency
+- why do you want to work at pinterest
+- Projects you're proud of 
+- past challenges
+
+Conflict resolution and empathy
+Cross functional work
+Giving 
+
+- practubce STAR method
+
+- Learn pintrest mission and values and create points for them.
+
+## Design Architecture
+- you can choose your own whiteboard tool
+
+1. Begin high level
+   1. Clarify, clarify clarify
+2. Be clear in your diagram
+3. Communicate
+   1. Identify bottlenecks and failure modes
+4. Be honest
+
+Concurrency (threads, deadlock, starvation, consistency, coherence)
+Caching
+Database partitioning, replication, sharding, CAP Theorem
+Networking (IPC, TCP/IP)
+Real-world performance (relative performance RAM, disk, your network, SSD)	
+Availability and reliability (types of failures, failure units, how failures may manifest, mitigations, etc.)	
+Data storage choice and data aggregation
+QPS capacity / machine estimation (back of the envelope estimates), byte size estimation
+
+
 # Pinterest Behavioral Interview questions
 
 1. Why do you want to work for Pinterest?

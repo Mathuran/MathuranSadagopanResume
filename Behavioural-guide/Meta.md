@@ -1,4 +1,5 @@
 # Meta Behavioral Interview questions
+- [guide](https://interviewing.io/blog/how-software-engineering-behavioral-interviews-are-evaluated-meta)
 
 # Tweak what past projects actually were.
 
@@ -47,7 +48,13 @@
 - Later the manager showed me the cost managent tool and I noticed how much me spent on the tool
 - Immediately I brought it up with the team, and they were very surprised at how expensive it was. 
 - I then proceeded to remove it
-- 
+
+# Meta Focus Areas
+**Resolving Conflict**
+**Growing continuously**
+**Embracing ambiguity**
+**Driving results**
+**Communicating Effectively**
 
 # Meta Behavioral Structure 
 To do this, we assess eight main focus areas in the interview. In no particular order, they are:
@@ -77,12 +84,16 @@ To do this, we assess eight main focus areas in the interview. In no particular 
 1. “What project are you most proud of and why?” {Senior Level ans}
    1. > Reduced card testing and improved card validation security project
 ## Initiative
-1. “Tell me about a time when you wanted to change something that was outside your regular scope of work.”
-2. Tell me about a time you had to step up and take responsibility for others {Junior-ish Level ans}
+1. “Tell me about a time when you wanted to change something that was outside your regular scope of work.” {Junior-ish Level ans}
    1. > Situation: Felt that our team had tons of tribal knowledge and wikis were lacking
    2. > Task: Goal was to improve documentation of services and create new ones for common client issues
    3. > Action: Created the knowledge sharing session for the team and the wiki writing session
    4. > Result: Manager noticed that clients were having an easier time finding answers to problems they had. Also reduced time wasted in meetings
+2. Tell me about a time you had to step up and take responsibility for others 
+   1. > Situation: During my Microsft internship we were working in small intern cohorts.
+   2. > Task: Many people didn't know what the agile development cycle is
+   3. > Action: I assigned the team a PM, scrum master and explained some agile methodology.
+   4. > Result: At first it was hard for people to follow but after a couple weeks of practice we got the hang of it.
 ## Able to work in an unstructured environment
 1. Tell me about a project or task that was ambiguous or under specified. {Senior Level ans}
    1. > Situation: Design a headless payment testing framework for QA testing. Essentially a tool to validate new backend features before the frontend is ready.
@@ -95,16 +106,42 @@ To do this, we assess eight main focus areas in the interview. In no particular 
    2. > Task: Payment is fragmented. Lots of countries have special code sprinkled through payments. Made it very challenging to onboard new countries due to differing system architectures and bugs.
    3. > Action: Assessed different implementation and added abstractions to our rule engine to help onboard other countries and payment processors. Talk to stakeholder about the benefits of our platform and the new features we could bring. 
    4. > Result: ongoing project when I was there but we've successfully launched in NA, Mexico, some of EU
+2. Tell me about a project that took far longer than planned 
+   1. 
 ## Conflict Resolution and Empathy
 1. Tell me about a person or team who you found most challenging to work with.
-   1. > Situation: Dealing with migration projects is always a challenge as the safer you want to make the change the more expensive it becomes. Cost and developer effort both increase. 
-   2. > Task: The room had a lot of different opinions and some team leads wanted to just push the whole project on us as any issue would affect our team most. 
-   3. > Action: It was a challenging debate I commented on that in the long run we would be owning this anyway, and it would be best if we both contributed to the migration equally. Design should strike a balance between safety and ease of impl but focus on creating good metrics and logs to make detecting and fix issue easier.
-   4. > Result: Proposed to add anomaly detection alarms to monitor changes and divide cost and dev effort in evenly.
+   1. Amazon EUMFA migration to GPA
+      1. > Situation: Dealing with migration projects is always a challenge as the safer you want to make the change the more expensive it becomes. Cost and developer effort both increase. 
+      2. > Task: The room had a lot of different opinions and some team leads wanted to just push the whole project on us as any issue would affect our team most. 
+      3. > Action: It was a challenging debate I commented on that in the long run we would be owning this anyway, and it would be best if we both contributed to the migration equally. Design should strike a balance between safety and ease of impl but focus on creating good metrics and logs to make detecting and fix issue easier.
+      4. > Result: Proposed to add anomaly detection alarms to monitor changes and divide cost and dev effort in evenly.
+   2. Microsoft intern cohort
+      1. > Situation: Durubg ny microsoft internship it was the start of covid and I kept taking longer that expected to get help from people around me. In the past I've always been a shy guy and didn't like calling people. A co-workers encouraged me to cal them whenever they needed me.
+      2. > Task: I was assigned to build 2 androind features for teams while other only needed 1. 
+      3. > Action: 
+      4. > Result:
 ## Growth
 1. Tell me about some constructive feedback you received from a manager or a peer
    1. > Situation: Was implementing a new feature that changed the error handling behaviour. Recieved some feedback on how it should work.
    2. > Task: Had to learning the correct way to error handles prod services. 
    3. > Action: Implemented the right way by correctly classifying errors, faults and failures.
    4. > Result: Also noticed some other service didn't do a good job either and requested that the team should address this.
+2. Tell me about feedback from a manager or peer that caused you to change
+   1. Interview Grind Epiphany [Save for after your employed]
+      1. > Situation: A couple of months ago I was going through the interview grind and was struggling to get better at passing interview questions. I didn't know why I was so bad and what I was lacking.
+      2. > Task: At the time I was also reading a manga JJK and I kinda had an Epiphany with what one of the characters was going through. To paraphrase what Gojo said "In order to be a great it's not enough to be a team player you have to be greedy and just swing for the fences". This resonated with how I was just casually practicing leetcode and that in order to be successful I really had to push my limits and really punch through my goals.
+      3. > Action: From that point on I took on the neetcode 150 challenge 
+      4. > Result: That's how I got through interview for company X
+   2. Amazon learning the clean code book
+      1. > Situation: My cr's had a lot of revisions when I joined the team. I didn't quite understand why people were giving me so many nit picks. 
+      2. > Task: Given this feedback I felt I lacked coding principles for clean and reusable code.
+      3. > Action: I ended picking up The Clean Coder book to learn more about why writing clean code is important and what it means to write clean code.
+      4. > Result: The result was that my co-worker found it much easier to review my code and I finally started feeling more confident in my skills and more opinionated when I review other.
 
+
+
+3. Sample Question and answer format
+   1. > Situation:
+   2. > Task:
+   3. > Action:
+   4. > Result:
