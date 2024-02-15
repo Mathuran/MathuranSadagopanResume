@@ -9,9 +9,9 @@ mathuransada@gmail.com&nbsp;&nbsp;&nbsp;647-447-3024&nbsp;&nbsp;&nbsp;[linkedin/
 | Python                | pandas, scikit-learn           | TensorFlow      | -->
 
 **Programming Languages:** Kotlin, Java, TypeScript, JavaScript, Python, SQL, C#, C++, C   
-**Frameworks / Libraries:** Dagger, Guice, Spring Boot, React.js, Redux, Express, Next.js, Django    
+**Frameworks / Libraries:** Dagger, Guice, Spring Boot, React.js, Redux, Express, Next.js, Django, .NET  
 <!-- **Testing Frameworks / Libraries:** JUnit/TestNG, Mokito, Cucumber, Swagger     -->
-**Technologies:** Apache Tomcat, Android, Node.js, Deno.js, REST, gRPC, WebSocket, AWS, DynamoDB, Git    
+**Technologies:** Android, Node.js, Deno.js, REST, gRPC, WebSocket, AWS, DynamoDB   
 
 ## Education
 ### McMaster University | BEng of Computer Engineering (CO-OP) <small>| April 2021 </small>
@@ -20,7 +20,8 @@ mathuransada@gmail.com&nbsp;&nbsp;&nbsp;647-447-3024&nbsp;&nbsp;&nbsp;[linkedin/
 ## Experience 
 ### Amazon | Software Development Engineer <small>| June 2021 – March 2023 </small>
 
-Delivered fraud prevention and service resiliency solutions, in Amazon consumer payments using Serverless technologies.
+Delivered fraud prevention solutions, in Amazon consumer payments using cloud scale distributed technology.
+Collaborated across multiple teams and project to launch solutions.
 
 - Saved $80,000/year by auditing the cost of services and removing unused log search tool
 - Resolved 2 issues blocking worldwide Real-time CVV verification for 1 year in 3 months.
@@ -36,7 +37,8 @@ Delivered fraud prevention and service resiliency solutions, in Amazon consumer 
 
 ### Microsoft | Software Engineer Intern <small>| May 2020 - August 2020 </small>
 
-Created features for various Microsoft products such as Windows Power Toys and Microsoft Teams for Android.  
+Created features for various Microsoft products such as Windows Power Toys and Microsoft Teams for Android.
+Quickly learned and adapted to multiple different projects and teams and independently launched features.
 
 - Fixed 3 user pain-points in Microsoft Teams for Android via 3 new features using Android Java / Kotlin
 - Produced features that complied with 100% of Microsoft and Android accessibility guidelines 
