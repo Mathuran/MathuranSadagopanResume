@@ -1,7 +1,7 @@
 # Meta Behavioral Interview questions
 - [guide](https://interviewing.io/blog/how-software-engineering-behavioral-interviews-are-evaluated-meta)
 
-# Tweak what past projects actually were.
+# Past Projects
 
 ## Client Throttling solution
 - created a distributed client throttling solution.

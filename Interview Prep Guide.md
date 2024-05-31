@@ -27,14 +27,20 @@
 ### Questions to Ask
 > The questions you ask can have a big impact on your interview. They can also imply things you may not actually want them to think. Prepare your questions in advance.
 
-1. What's the leadership style?
-2. What do you like most about working at X company
-3. What was a highlight and lowlight in the past year working at your company
-4. How would you describe the culture of the team
-5. How did this opportunity become available
-6. What is the interview process like?
-7. What are the company tenants / leadership principals
-8. 
+1. How did this opportunity become available
+2. How many people are you hiring currently?
+3. Is the role hybrid or remote?
+4. What is the interview process like?
+5. What are the company tenants / leadership principals that are important for the interview
+6. What's the leadership style?
+7. What do you like most about working at X company
+8. What was a highlight and lowlight in the past year working at your company
+9. How would you describe the culture of the team
+10. 
+
+
+sde role media team 
+capture mobile media
 
 #### For Engineers
 1. How has AI changed your workflows?
@@ -50,3 +56,25 @@ Before closing the meeting off I'd love to just get some high level feedback abo
 Thanks for giving me this opportunity to interview with you. Hope you have a great day.
 
 
+# Contract
+shoot a mssg after the hacker rank
+
+
+## Questions
+1. What do you like most about working at X company
+2. What was a highlight and lowlight in the past year working at your company
+3. How would you describe the culture of the team
+
+## Swati Mishra Interview
+1. What are the main challenges that students typically face in this program, and what advice would you give to overcome them?
+2. Are there opportunities for collaboration with industry or other academic institutions? I saw that you're being funded by Bloomberg
+3. What kind of projects are you looking at working on right now?
+4. Is the effect of training on synthetic data a Machine teaching problem?
+5. Are LLM's and machine teaching very different? How much can we benefit from machine teaching when LLM's can answer most of our questions. 
+
+# Layer Zero
+
+1. As a business what is layer zero accountable for?
+2. What are the most significant challenges you’ve encountered in achieving seamless interoperability across different blockchain?
+3. Can you provide some of your favourite examples of real-world applications or projects that have successfully integrated LayerZero’s protocol, and what benefits they have realized from its use?
+4. What are some of the upcoming features or innovations that LayerZero is working on to enhance its protocol, and how do you envision these will impact the broader blockchain ecosystem?
