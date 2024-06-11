@@ -9,7 +9,7 @@ mathuransada@gmail.com&nbsp;&nbsp;&nbsp;647-447-3024&nbsp;&nbsp;&nbsp;[linkedin/
 | Python                | pandas, scikit-learn           | TensorFlow      | -->
 
 **Programming Languages:** Kotlin, Java, TypeScript, JavaScript, Python, SQL, C#, C++, C   
-**Frameworks / Libraries:** Dagger, Guice, Spring Boot, React.js, Redux, Express, Next.js, Django, .NET  
+**Frameworks / Libraries:** Dagger, Guice, Spring Boot, React.js, Redux, Express, Next.js, Django, llama-index  
 <!-- **Testing Frameworks / Libraries:** JUnit/TestNG, Mokito, Cucumber, Swagger     -->
 **Technologies:** Android, Node.js, Docker, REST, gRPC, WebSocket, AWS, DynamoDB, PostGreSQL
 
@@ -18,15 +18,15 @@ mathuransada@gmail.com&nbsp;&nbsp;&nbsp;647-447-3024&nbsp;&nbsp;&nbsp;[linkedin/
 ### [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/2fd5dff4-554f-41b1-af78-9b6b39b6f104/public_url) <small>| May 2023 </small>
 
 ## Experience
-### Rooster Financial | Software Engineer <small>| Feb 2024 </small>
-Creating a new way to track personal finances, and helping people grow their nest egg. 
+### Rooster Financial | Software Engineer <small>| Jan 2024 </small>
+Creating a financial intelligence platform to help people grow their nest egg. 
 
 - Reduced customer touchpoints required to track financial data by developing a web app to automate it.
-- Leveraged LLM technology to summarize financial data and provide insights [ JS, TS, gpt4 ]
-- Created a web app to help manage and visualize financial data for different business. [React, Nextjs, PostGreSQL]
+- Create a RAG service that summarizes financial data and provides insights via natural language [Python, llama-index]
+- Created a web app to help manage and visualize financial data for different accounts. [React, Nextjs, PostGreSQL]
 <!-- - Developed web scrapping solutions for different business. [Javascript, Typescript]
 - Automated development of web scraping implementations using prompt engineering [ gpt4 ]. -->
-### Amazon | Software Development Engineer <small>| June 2021 – Nov 2023 </small>
+### Amazon | Software Development Engineer <small>| June 2021 – Dec 2023 </small>
 Delivered fraud prevention solutions, in Amazon consumer payments using cloud scale distributed technology. 
 <!-- Collaborated across multiple teams and project to launch solutions. -->
 - Saved $80,000/year by auditing the cost of services and removing unused log search tool
