@@ -1,3 +1,10 @@
+## Job posting sites
+
+- https://www.linkedin.com/feed/
+- https://ca.indeed.com/?r=us
+- https://simplify.jobs/dashboard
+- https://www.trueup.io/jobs
+- https://wellfound.com/candidates/overview
 
 **AI & Data Science**
 
