@@ -11,7 +11,7 @@ mathuransada@gmail.com&nbsp;&nbsp;&nbsp;647-447-3024&nbsp;&nbsp;&nbsp;[linkedin/
 **Programming Languages:** Kotlin, Java, TypeScript, JavaScript, Python, SQL, C#, C++, C   
 **Frameworks / Libraries:** Dagger, Guice, Spring Boot, React.js, Redux, Express, Next.js, Django, llama-index  
 <!-- **Testing Frameworks / Libraries:** JUnit/TestNG, Mokito, Cucumber, Swagger     -->
-**Technologies:** Android, Node.js, Docker, REST, gRPC, WebSocket, AWS, DynamoDB, PostGreSQL
+**Technologies:** Android, Docker, REST, gRPC, SonarQube, Github, AWS, DynamoDB, PostGreSQL
 
 ## Education
 ### McMaster University | BEng of Computer Engineering (CO-OP) <small>| April 2021 </small>
@@ -31,10 +31,15 @@ Delivered fraud prevention solutions, in Amazon consumer payments using cloud sc
 <!-- Collaborated across multiple teams and project to launch solutions. -->
 - Saved $80,000/year by auditing the cost of services and removing unused log search tool
 - Resolved 2 issues blocking worldwide Real-time CVV verification for 1 year in 3 months.
+  - Used 
 -  Improved service availability across 5 AWS regions, and prevented brownouts by implementing a solution to control clients, throttling limits in real time across 5 environments. [Java, Spring Boot, AWS App Config, Elasticache]
+   -  Feature was written using Java spring boot and Gizmo library
+   -  Deployed on AWS App Config and Elasticcache
+   -  Tested using AWS Distributed load testing
 - Increased net customer purchases by ~$10M due to reducing card testing and improving purchase confidence. Developed cloud native solutions that ensured high consistency and availability. [Kotlin, AWS SQS, Fargate, Lambda]
-- Improve app performance by 5% by implementing automated performance profiling via AWS CodeGuru
-- Grew documentation coverage from 50% to 100% in 4 months by leading bi-weekly wiki writing sessions
+- Relentlessly strived for high code quality and managed cloud deployments efficiently
+- Grew documentation coverage from 50% to 100% in 4 months by leading bi-weekly knowledge sharing sessions
+- Created 
 <!-- - Identified and fixed 2 bugs in away team code that unblocked the launch of Real-time CVV verification in 7 marketplaces -->
 <!-- - Pinpointed and enhanced the brownout behavior of 1 service after adding an automated stress test -->
 <!-- - Discovered 3 bugs in code as a result of adding anomaly detection to key service metrics -->

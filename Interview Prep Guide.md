@@ -38,7 +38,6 @@
 9. How would you describe the culture of the team
 10. 
 
-
 sde role media team 
 capture mobile media
 
@@ -46,35 +45,50 @@ capture mobile media
 1. How has AI changed your workflows?
 2. Do you think Computer hardware is ahead of Software or vice versa?
 
-Big Viking games
-What are some of the games you've released recently or are most popular?
-How did this opportunity become available?
 
 ### Closing
 Before closing the meeting off I'd love to just get some high level feedback about this interview or my resume. 
 
 Thanks for giving me this opportunity to interview with you. Hope you have a great day.
 
+## DoorDash
 
-# Contract
-shoot a mssg after the hacker rank
+1. How did this opportunity become available
+2. How many people are you hiring currently?
+3. Is the role hybrid or remote?
+4. What is the interview process like?
+5. Any tips for the interview?
+6. 
 
+- leetcode style 
+- clean code
+- think outloud
 
-## Questions
-1. What do you like most about working at X company
-2. What was a highlight and lowlight in the past year working at your company
-3. How would you describe the culture of the team
+- team matching
+- onsite 4 hr
+- 2 coding 
+- 1 sys
+- behaviour
 
-## Swati Mishra Interview
-1. What are the main challenges that students typically face in this program, and what advice would you give to overcome them?
-2. Are there opportunities for collaboration with industry or other academic institutions? I saw that you're being funded by Bloomberg
-3. What kind of projects are you looking at working on right now?
-4. Is the effect of training on synthetic data a Machine teaching problem?
-5. Are LLM's and machine teaching very different? How much can we benefit from machine teaching when LLM's can answer most of our questions. 
+- mid level role only 1
+- middle of group in process
 
-# Layer Zero
+## Quantas
+- say yes to applying to co-founder role
+- Maju was gonna pay me a contract that was 40K for this year
+- given that you are still an early stage startup but have revenue I would like to get paid
+- I think it would be fair to start 3.5K/month so a 20$/hr and then grow my salary when we get more funding.
 
-1. As a business what is layer zero accountable for?
-2. What are the most significant challenges you’ve encountered in achieving seamless interoperability across different blockchain?
-3. Can you provide some of your favourite examples of real-world applications or projects that have successfully integrated LayerZero’s protocol, and what benefits they have realized from its use?
-4. What are some of the upcoming features or innovations that LayerZero is working on to enhance its protocol, and how do you envision these will impact the broader blockchain ecosystem?
+1. What school did you go to?
+2. How do you know Anderson?
+3. Why did you join?
+4. What has your role been?
+5. Why were you not at TVZ?
+6. What's your work background?
+7. What are your interests outside of
+
+80K + $  in LOI
+good application + strong team
+traction + users and product fit
+dext
+accounting firms are just buying them up
