@@ -2,42 +2,42 @@
 mathuransada@gmail.com&nbsp;&nbsp;&nbsp;647-447-3024&nbsp;&nbsp;&nbsp;[linkedin/mathuransada](https://www.linkedin.com/in/mathuransada/)&nbsp;&nbsp;&nbsp;[github/mathuran](https://github.com/Mathuran)&nbsp;&nbsp;&nbsp;[portfolio/mathuran](https://mathuran.github.io/mathuran_sadagopan/)
 
 ## Skills
-<!-- | Programming Languages | Frameworks / Libraries         | Technologies    |
-| :-------------------- | :----------------------------- | :-------------- |
-| Kotlin, Java          | Dagger, Guice, Spring, AspectJ | Tomcat, Android |
-| TypeScript, Node.js   | React.js, Redux, Vue.js        | AWS             |
-| Python                | pandas, scikit-learn           | TensorFlow      | -->
 
-**Programming Languages:** TypeScript, JavaScript, Kotlin, Java, Python, SQL, C#, C++, C   
-**Frameworks / Libraries:** Next.js, Express, Dagger, Guice, Spring Boot, React.js, Redux, Django, .NET  
-<!-- **Testing Frameworks / Libraries:** JUnit/TestNG, Mokito, Cucumber, Swagger     -->
-**Technologies:** Android, Node.js, Docker, REST, gRPC, WebSocket, AWS, DynamoDB   
+**Programming Languages:** TypeScript, JavaScript, Kotlin, Java, Python, SQL  
+**Frameworks:** Next.js, Express, Spring Boot, Node.js, React.js, TanStack  
+**Databases & Cloud:** PostgreSQL, DynamoDB, AWS (EC2, Fargate, Lambda, SQS), Docker, CI/CD, Inngest  
+**AI/ML & Tools:** Gemini, llama-parse, llama-index, AI-SDK, LangGraph, LangChain   
 
 ## Education
+### Accelerators: Next36, Google for Startups, a16z Speedrunner <small>| June 2024 - Present </small>
 ### McMaster University | BEng of Computer Engineering (CO-OP) <small>| April 2021 </small>
 ### [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/2fd5dff4-554f-41b1-af78-9b6b39b6f104/public_url) <small>| May 2023 </small>
 
 ## Experience
-### Quanto | Co-Founder <small>| April 2024 - Present </small>
-Bookkeeping and tax preparation solutions for start-ups and creators. 
-- Developing intelligent accounting and bookkeeping solutions
-- Accelerator: Next36
-### Rooster Financial | Software Engineer <small>| Feb 2024 </small>
+### Quanto | Technical Co-Founder <small>| June 2025 - Present </small>
+Building AI-powered bookkeeping and tax preparation solutions for startups and creators. 
+- Architected and developed 5 AI-powered backend solutions using Next.js, Express, PostgreSQL, Inngest
+- Launched long-running agent system for client onboarding and month-end review automation, reducing onboarding time by 40%
+- Built queue-based orchestration system with AWS Fargate and Inngest, processing 1,000+ transactions/month
+- Built LLM-based transaction coding system for QuickBooks with 70% accuracy, reducing manual work by 20%
+- Improved CI/CD and testing by adding staging and production environments with comprehensive test coverage
+- Led engineering team of 4; delivered MVP in 2 weeks; secured $400K pre-seed funding
+
+### Rooster Financial | Software Engineer <small>| August 2023 - March 2024</small>
 Creating a financial intelligence platform to help people grow their nest egg. 
 
-- Reduced customer touchpoints required to track financial data by developing a web app to automate it.
-- Create a RAG service that summarizes financial data and provides insights via natural language [Python, llama-index]
-- Created a web app to help manage and visualize financial data for different accounts. [React, Nextjs, PostGreSQL]
+- Created a RAG service that summarizes financial data and provides insights [Python, llama-index]
+- Built a web app to manage and visualize financial data for different accounts [React, Next.js, PostgreSQL]
 <!-- - Developed web scrapping solutions for different business. [Javascript, Typescript]
 - Automated development of web scraping implementations using prompt engineering [ gpt4 ]. -->
 ### Amazon | Software Development Engineer <small>| June 2021 – March 2023 </small>
-Delivered fraud prevention solutions, in Amazon consumer payments using cloud scale distributed technology. 
-<!-- Collaborated across multiple teams and project to launch solutions. -->
-- Saved $80,000/year by auditing the cost of services and removing unused log search tool
-- Resolved 2 issues blocking worldwide Real-time CVV verification for 1 year in 3 months.
--  Improved service availability across 5 AWS regions, and prevented brownouts by implementing a solution to control clients, throttling limits in real time across 5 environments. [Java, Spring Boot, AWS App Config, Elasticache]
-- Increased net customer purchases by ~$10M due to reducing card testing and improving purchase confidence. Developed cloud native solutions that ensured high consistency and availability. [Kotlin, AWS SQS, Fargate, Lambda]a
-- Improve app performance by 5% by implementing automated performance profiling via AWS CodeGuru
+Delivered fraud prevention solutions in Amazon consumer payments using cloud-scale distributed technology. 
+- Increased net customer purchases by ~$10M by reducing card testing; developed cloud-native solutions ensuring high consistency and availability [Kotlin, AWS SQS, Fargate]
+- Improved service availability across 5 AWS regions and prevented brownouts by implementing real-time client throttling limits [Java, Spring Boot, AWS App Config]
+- Leveraged stress testing and anomaly detection to identify and fix performance bottlenecks [Java, AWS]
+- Fixed 2 bugs in away team code that unblocked Real-time CVV verification launch in 7 marketplaces
+- Resolved 2 issues blocking worldwide Real-time CVV verification for 1 year in 3 months
+- Saved $80,000/year by auditing service costs and removing unused infrastructure
 <!-- - Grew documentation coverage from 50% to 100% in 4 months by leading bi-weekly wiki writing sessions -->
 <!-- - Identified and fixed 2 bugs in away team code that unblocked the launch of Real-time CVV verification in 7 marketplaces -->
 <!-- - Pinpointed and enhanced the brownout behavior of 1 service after adding an automated stress test -->
@@ -46,19 +46,13 @@ Delivered fraud prevention solutions, in Amazon consumer payments using cloud sc
 <!-- - Achieved 0 ticket queues while on-call for business-critical services at Amazon -->
 
 ### Microsoft | Software Engineer Intern <small>| May 2020 - August 2020 </small>
-Created features for various Microsoft products such as Windows Power Toys and Microsoft Teams for Android. Quickly learned and adapted to multiple different projects and teams and independently launched features.
+Created features for Microsoft Teams for Android and Windows PowerToys. Quickly learned and adapted to multiple projects and independently launched features.
 
-- Fixed 3 user pain-points in Microsoft Teams for Android via 3 new features using Android Java / Kotlin
-- Produced features that complied with 100% of Microsoft and Android accessibility guidelines 
-- Successfully demonstrated the feasibility of a Windows color-picking tool via a C# UWP POC app
+- Fixed 3 user pain points in Microsoft Teams for Android via 3 new features using Android Java/Kotlin
+- Produced features that complied with 100% of Microsoft and Android accessibility guidelines
 <!-- 
 ### Ellis Don | Full Stack Developer <small>| May 2019 – August 2019 </small>
 Streamlined workflows for 100’s in the construction industry by building online tools and services.  
 
 - Developed responsive and stateful components such as form fields and dashboards. 
 - Created the front end using React.js and Redux. Backend services were Go or Java Spring Boot -->
-
-## Projects
-### Siren Sense <small>| Jan 2021 - March 2021 </small>
-University Capstone project built using React Native, Python and Tensor Flow. Developed a siren detection app to make noise-canceling headphones and vehicles safer around emergency vehicles.
-- Achieved a target accuracy of 80% in our audio detection model developed using Tensor Flow
